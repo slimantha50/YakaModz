@@ -9,11 +9,12 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA-MD=4oDPaTVnSUxb",
             "required": true
              },
              "REMOVE_BG_API_KEY": {
             "description": "",
+            "value": "werPXACHije9ySzBGp7dLG89" ,
             "required": true
              },
             "OWN_NAME": {
@@ -70,7 +71,7 @@
       },
        "INBOX_BLOCK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
@@ -135,12 +136,12 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "94768480794" ,
             "required": false
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
@@ -150,7 +151,7 @@
       },
          "HEROKU_API_KEY": {
             "description": "",
-            "value": "" ,
+            "value": "619b5ff1-2bb1-4314-8066-6ec2f026266d" ,
             "required": true
       },
          "HEROKU_APP_NAME": {
