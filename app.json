@@ -30,7 +30,7 @@
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -76,17 +76,17 @@
       },
        "INBOX_BLOCK_MSG": {
             "description": "",
-            "value": "default" ,
+            "value": "inbox එන්න එපා ගෲප් තියෙන්නෙ ඒකටනෙ" ,
             "required": true
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "default", 
+            "value": "DEVIL BOT මේ මොහොතේ ඔන්ලයින් සිටී,කමාන්ඩ් සදහා *.panel* යොදන්න", 
             "required": true
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://i.ibb.co/jbyGmW3/20220713-110858.jpg" ,
+            "value": "https://i.ibb.co/5LBnnSj/20220718-212308.jpg" ,
             "required": true
       },
       "DEPLOYER": {
@@ -136,7 +136,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "94768480794" ,
+            "value": "94768480793" ,
             "required": false
       },
          "LANGUAGE": {
@@ -156,7 +156,7 @@
       },
          "HEROKU_APP_NAME": {
             "description": "",
-            "value": "" ,
+            "value": "yakamodz1234" ,
             "required": true
       },
          "BAN_MESSAGE": {
