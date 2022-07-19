@@ -1,0 +1,199 @@
+{
+    "name": "DeviL - MD",
+    "description": "DeviL  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.ibb.co/5LBnnSj/20220718-212308.jpg",
+    "keywords": ["whatsapp", "userbot", "devil", "bot", "ai" , "MD" ],
+    "repository": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
+    "Youtube":   "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
+    "success_url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
+    "stack": "container",
+     "env": {
+            "AQUA_SESSION": {
+            "description": "",
+            "required": true
+             },
+             "REMOVE_BG_API_KEY": {
+            "description": "",
+            "required": true
+             },
+            "OWN_NAME": {
+            "description": "",
+            "value": "𝚂𝙰𝙼𝙸𝚃𝙷 𝙳𝙸𝙻𝚂𝙷𝙰𝙼" ,
+            "required": true
+             },
+             "OWN_NUMBER": {
+            "description": "",
+            "value": "94742265843" ,
+            "required": true
+             },
+       
+            "AUTO_REACT": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+             },
+           
+           "URL_1NAME": {
+            "description": "",
+            "value": "Youtube🎊" ,
+            "required": true
+      },
+           "URL_1LINK": {
+            "description": "",
+            "value": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA" ,
+            "required": true
+      },
+     "URL_2NAME": {
+            "description": "",
+            "value": "💻ACX GROUP💻" ,
+            "required": true
+      },
+       "URL_2LINK": {
+            "description": "",
+            "value": "https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT" ,
+            "required": true
+      },
+       "FOOTER": {
+            "description": "",
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚈𝙰𝙺𝙰 𝙼𝙾𝙳𝚉²⁰²²" ,
+            "required": true
+      },
+     "ANTI_LINK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "CAPTION": {
+            "description": "",
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚈𝙰𝙺𝙰 𝙼𝙾𝙳𝚉²⁰²²" ,
+            "required": true
+      },
+       "INBOX_BLOCK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "INBOX_BLOCK_MSG": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+      "ALIVE_MESSAGE": {
+            "description": "",
+            "value": "default", 
+            "required": true
+      },
+      "ALIVE_LOGO": {
+            "description": "",
+            "value": "https://i.ibb.co/jbyGmW3/20220713-110858.jpg" ,
+            "required": true
+      },
+      "DEPLOYER": {
+            "description": "",
+            "value": "AQUA USER" ,
+            "required": true
+      },
+       "SONG_DOWN": {
+            "description": "",
+            "value": "*📥සින්දුව බාගත කරමින් පවතී...*" ,
+            "required": true
+      }, 
+        "SONG_UP": {
+            "description": "",
+            "value": "*📤සින්දුව උඩුගත කරමින් පවතී...*" ,
+            "required": true
+      },
+          "VIDEO_DOWN": {
+            "description": "",
+            "value": "*📥වීඩියෝව බාගත කරමින් පවතී...*" ,
+            "required": true
+      },
+          "VIDEO_UP": {
+            "description": "",
+            "value": "*📤වීඩියෝව උඩුගත කරමින් පවතී...*" ,
+            "required": true
+      },
+          "FILE_DOWN": {
+            "description": "",
+            "value": "*📥ඔබගේ ගොනුව බාගත කරමින් පවතී...*" ,
+            "required": true
+      },
+          "FILE_UP": {
+            "description": "",
+            "value": "*📤ඔබගේ ගොනුව උඩුගත කරමින් පවතී...*" ,
+            "required": true
+      },
+          "STIC_WM": {
+            "description": "",
+            "value": "⛲𝙳𝙴𝚅𝙸𝙻𝙱𝙾𝚃 ࿐" ,
+            "required": true
+      },
+          "WORK_TYPE": {
+            "description": "",
+            "value": "public" ,
+            "required": true
+      },
+         "SUDO": {
+            "description": "",
+            "value": "" ,
+            "required": false
+      },
+         "LANGUAGE": {
+            "description": "",
+            "value": "EN" ,
+            "required": true
+      },
+         "HEROKU": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+      },
+         "HEROKU_API_KEY": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "HEROKU_APP_NAME": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "BAN_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "ADD_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "PROMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "DEMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "MUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "UNMUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      }
+        
+     },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
