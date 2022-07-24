@@ -1,11 +1,11 @@
 {
-    "name": "DeviL - MD",
-    "description": "DeviL  - Makes it easy and fun to use Whatsapp.",
+    "name": "IR - MD",
+    "description": "IR  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/5LBnnSj/20220718-212308.jpg",
-    "keywords": ["whatsapp", "userbot", "devil", "bot", "ai" , "MD" ],
-    "repository": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
-    "Youtube":   "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
-    "success_url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
+    "keywords": ["whatsapp", "userbot", "IR", "bot", "ai" , "MD" ],
+    "repository": "https://youtube.com",
+    "Youtube":   "https://youtube.com",
+    "success_url": "https://youtube.com",
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
@@ -19,12 +19,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "𝚂𝙰𝙼𝙸𝚃𝙷 𝙳𝙸𝙻𝚂𝙷𝙰𝙼" ,
+            "value": "Dinidu Liyanage (IR)" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94742265843" ,
+            "value": "94786754447" ,
             "required": true
              },
        
@@ -41,7 +41,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA" ,
+            "value": "https://youtube.com" ,
             "required": true
       },
      "URL_2NAME": {
@@ -51,12 +51,12 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT" ,
+            "value": "https://chat.whatsapp.com" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚈𝙰𝙺𝙰 𝙼𝙾𝙳𝚉²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 BY IR.......²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -66,7 +66,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚈𝙰𝙺𝙰 𝙼𝙾𝙳𝚉²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 IR.......²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -126,7 +126,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲𝙳𝙴𝚅𝙸𝙻𝙱𝙾𝚃 ࿐" ,
+            "value": "⛲IR𝙱𝙾𝚃 ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -136,7 +136,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "94768480793" ,
+            "value": "94768279253" ,
             "required": false
       },
          "LANGUAGE": {
